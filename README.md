@@ -1,5 +1,5 @@
 # spotify_app
-Spotfy web APi call to collect Michael Jackson Album or any Artist Album.
+Spotify web APi call to collect Michael Jackson Album or any Artist Album.
 
   STEPS TO FOLLOW:
 1. Create a spotify Developer Account
